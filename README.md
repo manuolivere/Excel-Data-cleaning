@@ -1,2 +1,7 @@
 # Excel-Data-cleaning
-Jumbled-up-Customers-Details
+
+
+## steps 
+- inporting the data to excel
+- ctrl A to select all
+- ctrl H to find and replace 
